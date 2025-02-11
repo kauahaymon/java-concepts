@@ -6,7 +6,7 @@ public final class My {
 
     private My() {}
 
-    public static void print(Collection<?>... items) {
+    public static <T> void print(Object... items) {
         for (Object args: items) {
             System.out.println(args);
         }
