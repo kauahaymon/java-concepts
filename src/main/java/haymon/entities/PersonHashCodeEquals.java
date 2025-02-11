@@ -1,4 +1,4 @@
-package haymon.collections.entities;
+package haymon.entities;
 
 import java.util.Objects;
 

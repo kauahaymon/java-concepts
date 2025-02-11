@@ -5,12 +5,11 @@
  */
 package haymon.collections;
 
-import haymon.collections.entities.Person;
-import haymon.collections.entities.PersonHashCodeEquals;
+import haymon.entities.Person;
+import haymon.entities.PersonHashCodeEquals;
 import haymon.myMethods.My;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class list {
